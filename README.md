@@ -21,19 +21,19 @@ Document- **ReadMe_Assignment_3_Prog_Explanation.Docs**
 -------Assignment-3 Submitted by Roll number: CS21M515 -------------
 --------------------------------------------------------------------
 Please Enter the number:
-1016111
-BY Using RSA THE ENCRYPTED NUMBER IS
- :=1228
+1016111	
+BY Using RSA THE ENCRYPTED NUMBER IS	
+ :=1228	
 BY RSA THE DECRYPTED NUMBER BY RSA (without CRT)
- :=10808
-The Time taken by RSA Basic method (without Without Chinese Reminder):= 10.511000 s =
+ :=10808	
+The Time taken by RSA Basic method (without Without Chinese Reminder):= 10.511000 s 	
 The DECRYPTED NUMBER by using CHINESE REMINDER THEOREM is :-
 10808
-The Time taken by CHINESE REMINDER THEOREM  = 0.077000 s
+The Time taken by CHINESE REMINDER THEOREM  = 0.077000 s	
  =  =======================CONCLUSION+++++++++++++++===============
  =  =======================CONCLUSION+++++++++++++++===============
- = The Time taken by RSA Basic method          = 10.511000 s
-=The Time taken by CHINESE REMINDER THEOREM  = 0.077000 s
+ = The Time taken by RSA Basic method          = 10.511000 s		
+=The Time taken by CHINESE REMINDER THEOREM  = 0.077000 s		
  =From Above we can conclude that the time taken by Chinese Reminder Theorem is LESS compare to RSA basic method
 From Above we can Also conclude that : Chinese Reminder Theorem is FASTER compare to RSA basic method
 Enter the number to EXIT:
