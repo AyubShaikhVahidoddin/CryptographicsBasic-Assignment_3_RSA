@@ -128,6 +128,7 @@ The problem with RSA algorithm is that RSA decryption is relatively slow in comp
 Chinese Remainder Theorem (CRT), a modulo based mathemati- cal theorem, is proposed by researchers as a way to enhance the performance of decryption. 
 CRT minimizes the mathematical computation to large extent, thus improving the speed. CRT is well known for improving RSA’s decryption speed.
 
+![image](https://user-images.githubusercontent.com/94394753/143434549-aaef17ef-dc46-4836-9bb7-14f0d26db18d.png)
 
 Belwo is the program execution and the timimg difference table :-
 
