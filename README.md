@@ -14,6 +14,11 @@ Document- **ReadMe_Assignment_3_Prog_Explanation.Docs**
 
 1) Below is Program Execution output :- 
 
+![image](https://user-images.githubusercontent.com/94394753/143434702-70aeff7f-ea79-4ebb-814c-f1a64d541a18.png)
+
+
+![image](https://user-images.githubusercontent.com/94394753/143434771-358e34d3-0e72-40d8-b6fc-344f480d1f95.png)
+
 --------------------------------------------------------------------
 --------------------------------------------------------------------
 ---*** C language Program To compare the timing difference between RSA Encryption and Decryption with and without Chinese Remainder Theorem.  ***---
@@ -92,6 +97,8 @@ The Time taken by CHINESE REMINDER THEOREM  = 0.096000 s
 From Above we can Also conclude that : Chinese Reminder Theorem is FASTER compare to RSA basic method
 Enter the number to EXIT:
 
+Belwo is the program execution and the timimg difference table :-
+![image](https://user-images.githubusercontent.com/94394753/143434852-9e9afb01-7469-4131-973a-129dd9431719.png)
 
 4) output of my program as below
 
@@ -130,16 +137,6 @@ CRT minimizes the mathematical computation to large extent, thus improving the s
 
 ![image](https://user-images.githubusercontent.com/94394753/143434549-aaef17ef-dc46-4836-9bb7-14f0d26db18d.png)
 
-Belwo is the program execution and the timimg difference table :-
-
-
-	input	     RSA(Time in Seconds)	 RSA with Chines Reminder Theorem (Time in Seconds)
-1	10		       7.97 Sec		                        0.0957 sec
-2	20		       10.99 Sec		                0.0780 Sec
-3	30		       9.26 Sec	   	                    	 0.06 sec
-4	20000		       15.235 Sec		                0.094 sec
-5	100000		      18.456 Sec		                0.121 Sec
-6        800000 	       19.385 Sec	                       0.169 Sec
 
 
 
