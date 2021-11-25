@@ -42,8 +42,11 @@ The Time taken by CHINESE REMINDER THEOREM  = 0.077000 s
  =From Above we can conclude that the time taken by Chinese Reminder Theorem is LESS compare to RSA basic method
 From Above we can Also conclude that : Chinese Reminder Theorem is FASTER compare to RSA basic method
 Enter the number to EXIT:
+![Screen6](https://user-images.githubusercontent.com/94394753/143436033-4c416658-492a-4fb5-a9de-968f3fc4b3f4.png)
 
 2) Belwi is Sample Program output :
+
+![crypto7](https://user-images.githubusercontent.com/94394753/143436410-229c7271-5085-4f6b-99cb-be4fbc06b077.png)
 
 --------------------------------------------------------------------
 --------------------------------------------------------------------
