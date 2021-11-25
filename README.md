@@ -14,10 +14,10 @@ Document- **ReadMe_Assignment_3_Prog_Explanation.Docs**
 
 1) Below is Program Execution output :- 
 
-![image](https://user-images.githubusercontent.com/94394753/143434702-70aeff7f-ea79-4ebb-814c-f1a64d541a18.png)
+![Crypto_Assignment_3_ScreenShot_5](https://user-images.githubusercontent.com/94394753/143435131-7d9f1f6b-2954-43cc-9b99-f8c20795587c.png)
 
+![Crypto_Assignment_3_ScreenShot_3](https://user-images.githubusercontent.com/94394753/143435288-31571698-ab1f-41cf-998c-45736605e573.png)
 
-![image](https://user-images.githubusercontent.com/94394753/143434771-358e34d3-0e72-40d8-b6fc-344f480d1f95.png)
 
 --------------------------------------------------------------------
 --------------------------------------------------------------------
